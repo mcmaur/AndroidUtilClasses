@@ -11,7 +11,8 @@
 
 2. Add the play services library in the manifest like this
 ```
-<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+<meta-data android:name="com.google.android.gms.version" 
+  android:value="@integer/google_play_services_version" />
 ```
 
 3. Add the lib to build gradle 
