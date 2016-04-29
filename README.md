@@ -1,13 +1,15 @@
 # AndroidUtilClasses
+> Android made easier
 
-If you find android documentation is bad you are welcome here.
-I think 20 pages long explanation and few code example covering 1% of the code you need, so I've a super easy recap of what I know. All code and some few instruction to deal.
+Android documentation is bad: 20 pages long explanation and few code example covering 1% of the code you need.
+Udacity videos are so long that you can spend an entire day to do a 4 minute of code.
 
-HOW TO USE IT
+**_I have a solution_**: my super easy recap. All code and some few instructions to deal with.
 
-*Read the README: follow few basic instruction
-*Import the java classes
+### How To Use It:
+- Read the README and follow the few basic instructions
+- Import the java classes into your project
 
-Done!
+**Done!**
 
 Easy.
