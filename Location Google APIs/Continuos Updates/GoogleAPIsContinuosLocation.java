@@ -19,7 +19,10 @@ import com.google.android.gms.location.LocationRequest;
 import com.google.android.gms.location.LocationServices;
 
 /**
- * Created by mauro on 29/04/16.
+ * Copyright (C) 2016 Mauro Cerbai
+ *
+ * This software may be modified and distributed under the terms
+ * of the MIT license. See the LICENSE file for details.
  */
 public class GoogleAPIsContinuosLocation implements GoogleApiClient.ConnectionCallbacks {
     private String TAG = "GoogleAPIsContinuosLocation";

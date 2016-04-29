@@ -10,6 +10,12 @@ import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationListener;
 
+/**
+ * Copyright (C) 2016 Mauro Cerbai
+ *
+ * This software may be modified and distributed under the terms
+ * of the MIT license. See the LICENSE file for details.
+ */
 public class ActivityExample extends AppCompatActivity implements LocationListener, GoogleApiClient.OnConnectionFailedListener {
     private String TAG = "ActivityExample";
     GoogleAPIsContinuosLocation mGoogleAPIsContinuosLocation;
